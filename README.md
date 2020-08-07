@@ -1,3 +1,3 @@
 # Illustration
- <em>The main objective of this project is the illustration of implementation of several sorting algorithms.</em><br>
+ <em>The main objective of this project is to illustrate the implementation of several sorting algorithms.</em><br>
 The python files<strong> mergesort.py,bubblesort.py,insertion.py,quicksort.py and selection.py</strong> are the implementations of the respective algorithms and button.py is a pygame program used to create a button for more interesting user interaction and <strong>slider.py</strong> is a slider which can be adjusted to our desired speed.<strong> window.exe</strong> is an alternate program to <strong>window.py</strong> for execution in windows for those who donot have access to python on their devices.
